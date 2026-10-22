@@ -99,4 +99,4 @@ Three levels, each a site with its own repository, version and release history: 
 A hub site is one JSON file rendered by one script with no clock in it: the same data gives byte-identical pages. The gate checks links, twins, llms.txt, determinism and credential shapes before every release, and the release script refuses to call a release done until the live site serves the new version. The method is the one the story sites use, at the smallest size that still follows it.
 
 ---
-site v0.0.2 · https://2026.newsroom.sgit.ai/index.html
+site v0.0.3 · https://2026.newsroom.sgit.ai/index.html

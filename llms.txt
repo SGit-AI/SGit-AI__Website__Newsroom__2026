@@ -2,7 +2,7 @@
 
 > The SGit Newsroom's year: one site per month, one site per story that matters, each built from captured evidence. October 2026 is live with the PHP flaws; the other months are placeholders until a story opens them.
 
-Site v0.0.2. Every page has a markdown twin at the same path.
+Site v0.0.3. Every page has a markdown twin at the same path.
 
 - [2026, one story at a time](https://2026.newsroom.sgit.ai/index.md): The SGit Newsroom's year: one site per month, one site per story that matters, each built from captured evidence. October 2026 is live with the PHP flaws; the other months are placeholders until a story opens them.
 - [Release history](https://2026.newsroom.sgit.ai/versions/index.md): Every release of this site, one sentence each.

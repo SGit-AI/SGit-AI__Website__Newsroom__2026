@@ -1,0 +1,127 @@
+{
+ "site": "2026.newsroom.sgit.ai",
+ "short": "2026",
+ "brand": "2026",
+ "brand_suffix": ".newsroom",
+ "repo": "https://github.com/SGit-AI/SGit-AI__Website__Newsroom__2026",
+ "kicker": "The SGit Newsroom · the year as stories",
+ "title": "2026, one story at a time",
+ "description": "The SGit Newsroom's year: one site per month, one site per story that matters, each built from captured evidence. October 2026 is live with the PHP flaws; the other months are placeholders until a story opens them.",
+ "lead_html": "The <a href=\"https://newsroom.sgit.ai/\">newsroom</a> publishes articles and a daily wire. This site is the other axis: time. Each month has a site, each story that is big enough gets a site of its own, and every one of them is built the same way, from sources captured, dated and hashed into a vault, with a status word on every claim. Start at a month, go down to a story, and come back up the same way.",
+ "items_heading": "The months",
+ "items": [
+  {
+   "kicker": "January 2026",
+   "title": "January",
+   "status": "planned",
+   "blurb": "No story site has opened this month yet."
+  },
+  {
+   "kicker": "February 2026",
+   "title": "February",
+   "status": "planned",
+   "blurb": "No story site has opened this month yet."
+  },
+  {
+   "kicker": "March 2026",
+   "title": "March",
+   "status": "planned",
+   "blurb": "No story site has opened this month yet."
+  },
+  {
+   "kicker": "April 2026",
+   "title": "April",
+   "status": "planned",
+   "blurb": "No story site has opened this month yet."
+  },
+  {
+   "kicker": "May 2026",
+   "title": "May",
+   "status": "planned",
+   "blurb": "No story site has opened this month yet."
+  },
+  {
+   "kicker": "June 2026",
+   "title": "June",
+   "status": "planned",
+   "blurb": "No story site has opened this month yet."
+  },
+  {
+   "kicker": "July 2026",
+   "title": "July",
+   "status": "planned",
+   "blurb": "No story site has opened this month yet."
+  },
+  {
+   "kicker": "August 2026",
+   "title": "August",
+   "status": "planned",
+   "blurb": "No story site has opened this month yet."
+  },
+  {
+   "kicker": "September 2026",
+   "title": "September",
+   "status": "planned",
+   "blurb": "No story site has opened this month yet."
+  },
+  {
+   "kicker": "October 2026",
+   "title": "October: the PHP flaws",
+   "url": "https://oct.2026.newsroom.sgit.ai/",
+   "status": "live",
+   "lead": true,
+   "blurb": "The month's site, with the story of CVE-2026-109618 and CVE-2026-109619 as its lead.",
+   "children": [
+    {
+     "title": "php2shell: the two PHP flaws, tracked as evidence",
+     "url": "https://php.oct.2026.newsroom.sgit.ai/",
+     "blurb": "claims with a status, a timeline, the code, the agencies, the impact, every source hashed"
+    }
+   ]
+  },
+  {
+   "kicker": "November 2026",
+   "title": "November",
+   "status": "planned",
+   "blurb": "No story site has opened this month yet."
+  },
+  {
+   "kicker": "December 2026",
+   "title": "December",
+   "status": "planned",
+   "blurb": "No story site has opened this month yet."
+  }
+ ],
+ "where_html": "Three levels, each a site with its own repository, version and release history: the newsroom, the year, the month, the story. Every level links up and down; nothing is reachable from only one direction.",
+ "up": [
+  {
+   "label": "newsroom.sgit.ai",
+   "url": "https://newsroom.sgit.ai/",
+   "blurb": "the SGit Newsroom: articles, the desks, the wire, the reading meter"
+  }
+ ],
+ "down": [
+  {
+   "label": "October 2026",
+   "url": "https://oct.2026.newsroom.sgit.ai/",
+   "blurb": "the month's stories, with the PHP flaws as the lead"
+  },
+  {
+   "label": "php2shell",
+   "url": "https://php.oct.2026.newsroom.sgit.ai/",
+   "blurb": "the two PHP flaws of October 2026, tracked as evidence"
+  }
+ ],
+ "how_html": "A hub site is one JSON file rendered by one script with no clock in it: the same data gives byte-identical pages. The gate checks links, twins, llms.txt, determinism and credential shapes before every release, and the release script refuses to call a release done until the live site serves the new version. The method is the one the story sites use, at the smallest size that still follows it.",
+ "nav": [
+  [
+   "index.html",
+   "The year"
+  ],
+  [
+   "versions/index.html",
+   "Release history"
+  ]
+ ],
+ "footer": "is the SGit Newsroom's 2026, one site per month and one per story."
+}

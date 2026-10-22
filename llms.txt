@@ -1,0 +1,15 @@
+# 2026.newsroom.sgit.ai
+
+> The SGit Newsroom's year: one site per month, one site per story that matters, each built from captured evidence. October 2026 is live with the PHP flaws; the other months are placeholders until a story opens them.
+
+Site v0.0.1. Every page has a markdown twin at the same path.
+
+- [2026, one story at a time](https://2026.newsroom.sgit.ai/index.md): The SGit Newsroom's year: one site per month, one site per story that matters, each built from captured evidence. October 2026 is live with the PHP flaws; the other months are placeholders until a story opens them.
+- [Release history](https://2026.newsroom.sgit.ai/versions/index.md): Every release of this site, one sentence each.
+
+## Up
+- [newsroom.sgit.ai](https://newsroom.sgit.ai/): the SGit Newsroom: articles, the desks, the wire, the reading meter
+
+## Down
+- [October 2026](https://oct.2026.newsroom.sgit.ai/): the month's stories, with the PHP flaws as the lead
+- [php2shell](https://php.oct.2026.newsroom.sgit.ai/): the two PHP flaws of October 2026, tracked as evidence
